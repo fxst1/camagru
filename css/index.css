@@ -1,0 +1,77 @@
+footer
+{
+	margin-top: 25vh;
+}
+
+.login
+{
+	color:blue;
+}
+
+.main
+{
+	margin-top: 100px;
+	text-align: center;
+}
+
+.error
+{
+	color: red;
+	font-size: 10px;
+	font-style: italic;
+}
+
+.container
+{
+	display: inline-block;
+	color: blue;
+	text-align: center;
+	border-top: 2px solid lightblue;
+	border-bottom: 5px solid lightblue;
+	border-left: 2px solid lightblue;
+	border-right: 2px solid lightblue;
+
+	border-top-left-radius: 25%; 
+	border-bottom-right-radius: 25%; 
+}
+
+.name
+{
+	margin-bottom: 15px;	
+}
+
+.pass
+{
+	margin-bottom: 15px;
+}
+
+.email
+{
+	margin-bottom:  15px;
+}
+
+legend
+{
+	font-style: italic;
+	font-size: 30px;
+	color: blue;
+}
+
+.item
+{
+	width: 200px;
+}
+
+#btn
+{
+	margin-bottom: 10px;
+	border-radius: 5px;
+	background-color: lightblue;
+	color: black; 
+}
+
+fieldset
+{
+	padding-top: 20px;
+	text-align: center;
+}

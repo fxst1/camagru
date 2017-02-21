@@ -1,0 +1,23 @@
+header
+{
+	background-color: lightblue;
+	color: white;
+}
+
+.titre
+{
+	font-size: 50px;
+}
+
+.icon
+{
+	width: 25px;
+	height: 25px;
+}
+
+.profil
+{
+	position: relative;
+	top: -1px;
+	left: 2px;
+}

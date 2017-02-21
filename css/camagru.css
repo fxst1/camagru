@@ -1,0 +1,262 @@
+#ok
+{
+	display: block;
+	position: absolute;
+	top: 567px;
+	left: 205px;
+	width: 200px;
+	height: 40px;
+	background-color: green;
+}
+
+#save
+{
+	display: block;
+	position: absolute;
+	top: 567px;
+	left: 415px;
+	width: 200px;
+	height: 40px;
+	background-color: green;
+}
+
+#img-apercu
+{
+	position: relative;
+	top: 123px;
+	left: 630px;
+}
+
+.inline
+{
+	display: inline-block;
+}
+
+#video
+{
+	width: 500px;
+	height: 376px;
+	position: absolute;
+	top: 163px;
+	left: 127px;
+}
+
+footer
+{
+	position: absolute;
+	top: 1000px;
+}
+
+#video-cnt
+{
+	width: 500px;
+	height: 500px;
+}
+
+#cam
+{
+	margin: 0;
+	position: absolute;
+	top: 123px;
+	left: 130px;
+	width: 500px;
+	height: 500px;
+}
+
+#form
+{
+	display: inline;
+	position: absolute;
+	top: 600px;
+	left: 200px;
+}
+
+footer
+{
+	display: block;
+}
+
+#filtre-box
+{
+	vertical-align: top;
+	display: inline-block;
+	color: blue;
+	text-align: center;
+	border-top: 2px solid lightblue;
+	border-bottom: 5px solid lightblue;
+	border-left: 4px solid lightblue;
+	border-right: 2px solid lightblue;
+	margin-top: 20px;
+}
+
+.main2
+{
+	margin-top: 20px;
+}
+
+.filtre
+{
+	width: 70px;
+	height: 70px;
+}
+
+hr
+{
+	color: lightblue;
+}
+
+.unuse
+{
+	background-color: white;
+}
+
+.use
+{
+	background-color: green;
+}
+
+.unselect
+{
+	border-color: white;
+}
+
+.select
+{
+	border-color: red;
+}
+
+.divFilter:hover
+{
+	background-color: lightblue;
+}
+
+.divFilter
+{
+	border: 2px solid white;
+}
+
+.container
+{
+	display: inline-block;
+	color: blue;
+	text-align: center;
+	border-top: 2px solid lightblue;
+	border-bottom: 5px solid lightblue;
+	border-left: 2px solid lightblue;
+	border-right: 2px solid lightblue;
+
+	border-top-left-radius: 25%; 
+	border-bottom-right-radius: 25%; 
+}
+
+.book
+{
+	width: 100px;
+	height: 100px;
+}
+
+.top
+{
+	
+}
+
+.bot
+{
+	
+}
+
+.align
+{
+	text-align: right;
+}
+
+.box
+{
+	width: 500px;
+	height: 376px;
+}
+
+#side
+{
+	display: inline-flex;
+	flex-direction: row;
+}
+
+#apercu
+{
+}
+
+#nbox
+{
+
+}
+
+#main-section
+{
+	display: inline-block;
+}
+
+.container2
+{
+	display: inline-block;
+	color: blue;
+	vertical-align: top;
+	text-align: center;
+	border-top: 2px solid lightblue;
+	border-bottom: 5px solid lightblue;
+	border-left: 4px solid lightblue;
+	border-right: 2px solid lightblue;
+}
+
+#data
+{
+	border: 1px solid black;
+	display: inline-block;
+}
+
+#desc
+{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.little-view
+{
+	height: 100px;
+	width: 100px;
+	box-shadow: 1px 1px 1px;
+}
+
+#show
+{
+	position: absolute;
+	overflow: auto;
+	top: 204px;
+	left: 50%;
+}
+
+.flex
+{
+	margin-right: 50%; 
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.dislike
+{
+	color: red;
+	vertical-align: top;
+}
+
+.book2
+{
+	width: 500px;
+	height: 370px;
+}
+
+.like
+{
+	color: green;
+	vertical-align: top;
+}
