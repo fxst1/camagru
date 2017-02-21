@@ -1,0 +1,5 @@
+INSTALL: camagru/config/setup.php
+
+Veulliez changer dans config/database.php
+DB_USER and DB_PASSWORD
+
